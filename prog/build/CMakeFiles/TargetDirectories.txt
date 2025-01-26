@@ -1,0 +1,4 @@
+/home/tim/uni/prog/build/CMakeFiles/functions.dir
+/home/tim/uni/prog/build/CMakeFiles/main.dir
+/home/tim/uni/prog/build/CMakeFiles/edit_cache.dir
+/home/tim/uni/prog/build/CMakeFiles/rebuild_cache.dir
